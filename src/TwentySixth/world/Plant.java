@@ -1,5 +1,9 @@
 package TwentySixth.world;
 
+class Something {
+
+}
+
 public class Plant {
     // Bad practice
     public String name;
